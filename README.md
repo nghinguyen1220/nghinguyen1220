@@ -1,8 +1,11 @@
 # Hello, I'm Nghi 👋
-Software Developer | Senior Software Development Student at NBCC
+Software Developer | Software Development Student at NBCC
 
-[![Email](https://img.shields.io/badge/Email-ndpnghi1220%40gmail.com-blue)](mailto:ndpnghi1220@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nghi%20Nguyen-blue)](https://linkedin.com/in/ndpnghi)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-17B890?logo=vercel&logoColor=white&style=for-the-badge)](https://ndpnghi.vercel.app)
+
+[![Email](https://img.shields.io/badge/Email-ndpnghi1220%40gmail.com-B370B0)](mailto:ndpnghi1220@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nghi%20Nguyen-60AFFF?logo=linkedin&logoColor=white)](https://linkedin.com/in/ndpnghi)
+
 
 ## 😎 About Me
 
@@ -10,6 +13,7 @@ Software Developer | Senior Software Development Student at NBCC
 - Learned the importance of software architecture the hard way
 - Love brain games and problem-solving
 - Interested in many things, but trying to focus on a few to build real depth
+- Not a fan of spaghetti, especially spaghetti code
 
 ## 🛠️ My Tech Stack
 
@@ -42,7 +46,7 @@ Software Developer | Senior Software Development Student at NBCC
 
 ## 🔭 I'm currently working on...
 - Seeking an internship opportunity
-- Developing my web portfolio
+- Creating more video demos for my portfolio
 
 
 <!--
