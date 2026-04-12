@@ -39,8 +39,10 @@ Software Developer | Software Development Student at NBCC
 <img src="tech/nodejs.svg" title="NodeJS" alt="NodeJS Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 <img src="tech/npm.svg" title="npm" alt="npm Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 <img src="tech/php.svg" title="PHP" alt="PHP Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
+<img src="tech/powerbi.png" title="Power BI" alt="Power BI Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 <img src="tech/selenium.png" title="Selenium" alt="Selenium Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 <img src="tech/sql.svg" title="SQL" alt="SQL Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
+<img src="tech/tableau.png" title="Tableau" alt="Tableau Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 <img src="tech/visualstudio.svg" title="Visual Studio" alt="Visual Studio Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 <img src="tech/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 
