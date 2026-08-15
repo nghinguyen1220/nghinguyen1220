@@ -47,7 +47,7 @@ Software Developer | Software Development Student at NBCC
 <img src="tech/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code Logo"  width="50" height="50" style="object-fit:contain;"> &nbsp;&nbsp;
 
 ## 🔭 I'm currently working on...
-- UniWar Blind Sudoku game with practice mode, inspired by [UniWar Games](https://universitywar.com/s1/games) ✨
+- [UniWar Blind Sudoku game](https://uniwar-sudoku.vercel.app/) with practice and versus modes ✨
 
 
 <!--
